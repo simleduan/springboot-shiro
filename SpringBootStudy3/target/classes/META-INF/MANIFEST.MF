@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springBootStudy3 Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ￦ﾨﾊ￦ﾖﾌ
+Implementation-Vendor-Id: springBootStudy3
+Build-Jdk: 1.8.0_40
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
